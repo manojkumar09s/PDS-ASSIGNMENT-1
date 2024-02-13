@@ -1,0 +1,10 @@
+The dataset of Task-2 consist of:
+
+Gender
+Race/Ethnicity
+Parental level of Education
+Lunch
+Test preparation course
+Math Score
+Reading Score
+Writing score

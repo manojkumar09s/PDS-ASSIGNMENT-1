@@ -1,0 +1,16 @@
+About Dataset:
+
+The given data is about information of a person about health condition and frailty status.
+
+Height in inches
+weight in pounds
+Age in years
+Grip Strength in Kilograms
+Frailty is binary
+
+We have taken data set in csv format
+
+
+
+
+
